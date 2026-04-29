@@ -6,6 +6,4 @@ https://drive.google.com/file/d/1XY_WPJWInkTQicEs4lBiH1559vyl2iqB/view?usp=shari
 
 https://forumapiammar.vercel.app/generate-business-bio
 
-
-https://claude.ai/share/d4f0456f-2898-41cb-a7c9-470bd70be1de
-https://chatgpt.com/share/69ec77aa-ffdc-8321-a18d-1b5979a20f89
+https://claude.ai/share/8243793c-8963-476b-a618-a89508cdc74a
